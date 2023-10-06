@@ -1,0 +1,51 @@
+.logo {
+    width: 100px;
+    height: 30px;
+}
+
+.navbar{
+    height: 60px;
+}
+
+.navbar-brand{
+    padding-top: 10px;
+}
+
+.navbar-nav .nav-link{
+    background: none;
+    padding: 8px 16px;
+    border-radius: 60px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.navbar-nav .nav-link:active{
+    background-color: rgb(230, 248, 137);
+    color: rgb(162, 255, 0);
+}
+
+.collapse{
+    background-color: rgba(255, 255, 255, 0.746);
+}
+
+.landing-page {
+    background-image: url("Black and Pink Gradient Motivational Quote Desktop Wallpaper.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+h1{
+    color: #FFC0CB;
+    font-family: 'Dela Gothic One', sans-serif;
+}
+
+.wcu-section {
+    background-color: #ffffff;
+}
+
