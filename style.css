@@ -40,12 +40,86 @@
     background-size: cover;
 }
 
-h1{
+.lp-heading{
     color: #FFC0CB;
     font-family: 'Dela Gothic One', sans-serif;
 }
 
 .wcu-section {
-    background-color: #ffffff;
+    background-color: #f9fbfe;
+}
+
+.wcu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.wcu-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.wcu-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.wcu-card-image {
+    width: 87px;
+    height: auto;
+}
+
+.wcu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.wcu-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.explore-menu-section {
+    background-color: white;
+}
+
+.art-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.art-item-image {
+    border-radius: 16px;
+}
+
+.art-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.art-item-link {
+    color: #FFC0CB;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.art-item-card {
+    border-radius: 16px;
 }
 
